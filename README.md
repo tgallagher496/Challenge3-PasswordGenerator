@@ -1,5 +1,4 @@
 # Challenge3-PasswordGenerator
-# Challenge2CssPortfolio
 
 ## Description
 
