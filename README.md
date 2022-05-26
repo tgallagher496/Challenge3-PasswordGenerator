@@ -1,5 +1,5 @@
 # Challenge3-PasswordGenerator
-
+[live site](https://tgallagher496.github.io/Challenge3-PasswordGenerator/)
 ## Description
 
 This project creates a random password using the user's input.  The user gets to decide if they want lower case, upper case, numbers and/or symbols in their password.  This program helped us learn about function notation, arrays, strings, if/else statements and loops.
